@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Dev-Backstage-K8S-Helm Chart
+  description: Backstage Helm chart
+  annotations:
+    github.com/project-slug: sachinkhisti/backstage-helm-chart
+spec:
+  type: Repository
+  lifecycle: WK-Dev-Helm-Chart
+  owner: default/guest
