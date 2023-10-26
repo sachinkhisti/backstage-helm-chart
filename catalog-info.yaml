@@ -4,7 +4,7 @@ metadata:
   name: Dev-Backstage-K8S-Helm Chart
   description: Backstage Helm chart
   annotations:
-    github.com/project-slug: sachinkhisti/backstage-helm-chart
+    github.com/project-slug: cdwv/awesome-helm
 spec:
   type: Repository
   lifecycle: WK-Dev-Helm-Chart
