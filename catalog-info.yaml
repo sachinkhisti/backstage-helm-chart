@@ -5,6 +5,7 @@ metadata:
   description: Backstage Helm chart
   annotations:
     github.com/project-slug: sachinkhisti/backstage-helm-chart
+    backstage.io/techdocs-ref: value
 spec:
   type: Repository
   lifecycle: WK-Dev-Helm-Chart
