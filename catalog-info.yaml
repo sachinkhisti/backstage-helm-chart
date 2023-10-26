@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Dev-Backstage-K8S-Helm Chart
+  name: dev-backstage-k8s-helm-chart
   description: Backstage Helm chart
   annotations:
     github.com/project-slug: sachinkhisti/backstage-helm-chart
