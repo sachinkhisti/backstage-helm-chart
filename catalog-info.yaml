@@ -8,5 +8,5 @@ metadata:
 spec:
   type: Repository
   lifecycle: WK-Dev-Helm-Chart
-  owner: default/guest
+  owner: guests
   url: https://artifacthub.io/packages/helm/bitnami/common
